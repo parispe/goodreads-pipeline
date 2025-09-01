@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+*.log
+
+# macOS
+.DS_Store
+
+# Airflow
+.airflow/
+logs/
+airflow.db
+
+# Docker
+**/.pytest_cache/
+**/.mypy_cache/
+
+# Local env files
+docker/.env
