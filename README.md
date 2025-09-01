@@ -1,6 +1,6 @@
-# Goodreads Pipeline — Day 1 (Scaffold + CI)
+# Goodreads Pipeline
 
-This is the Day 1 starting point for your EC2‑based Airflow project. It includes:
+This is the starting point for your EC2‑based Airflow project. It includes:
 - Minimal DAG skeleton
 - GitHub Actions workflow to import‑test DAGs
 - Clean repo layout you'll extend on later days
